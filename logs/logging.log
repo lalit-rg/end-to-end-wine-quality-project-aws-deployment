@@ -162,3 +162,23 @@ x==========x]
 [2024-12-24 16:09:08,829: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
 
 x==========x]
+[2024-12-24 16:24:55,066: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.11:8080]
+[2024-12-24 16:24:55,066: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-12-24 16:25:03,077: INFO: _internal: 192.168.1.11 - - [24/Dec/2024 16:25:03] "GET / HTTP/1.1" 200 -]
+[2024-12-24 16:25:03,944: INFO: _internal: 192.168.1.11 - - [24/Dec/2024 16:25:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2024-12-24 16:25:17,338: INFO: _internal: 127.0.0.1 - - [24/Dec/2024 16:25:17] "GET / HTTP/1.1" 200 -]
+[2024-12-24 16:25:18,171: INFO: _internal: 127.0.0.1 - - [24/Dec/2024 16:25:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2024-12-24 16:26:00,707: INFO: _internal: 127.0.0.1 - - [24/Dec/2024 16:26:00] "GET / HTTP/1.1" 200 -]
+[2024-12-24 16:26:01,544: INFO: _internal: 127.0.0.1 - - [24/Dec/2024 16:26:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2024-12-24 16:26:04,275: INFO: _internal: 127.0.0.1 - - [24/Dec/2024 16:26:04] "GET / HTTP/1.1" 200 -]
+[2024-12-24 16:27:42,119: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.11:8080]
+[2024-12-24 16:27:42,120: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-12-24 16:27:46,019: INFO: _internal: 127.0.0.1 - - [24/Dec/2024 16:27:46] "GET / HTTP/1.1" 200 -]
+[2024-12-24 16:27:46,065: INFO: _internal: 127.0.0.1 - - [24/Dec/2024 16:27:46] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2024-12-24 16:28:25,884: INFO: _internal: 127.0.0.1 - - [24/Dec/2024 16:28:25] "POST /predict HTTP/1.1" 200 -]
